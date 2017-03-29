@@ -1,4 +1,8 @@
 # hw4
+
+You can find my homework as html page on
+http://htmlpreview.github.io/?https://github.com/busebuz/hw4/blob/master/hw4.html
+
 ## Bayesian model selection
 
 1. Repeat the fake/fair coin example covered in class with a prior probability of form
